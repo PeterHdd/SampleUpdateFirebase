@@ -3,7 +3,7 @@
 A Sample Update data in Firebase For android, in response for this question on Stackoverflow: 
 https://stackoverflow.com/questions/48576560/how-to-update-child-node-data-in-firebase-database/
 
-The application demonstrates that onclick of a button the attribute `done` will be updated to `false` and no new node will be created(after clicking the button).
+The application demonstrates that onclick of a button the attribute `done` will be updated to `new` and no new node will be created(after clicking the button).
 
 # Interface
 <img src="http://gdurl.com/4P8P" width="300">
