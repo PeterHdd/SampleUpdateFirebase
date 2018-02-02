@@ -22,5 +22,5 @@ The application is done to test the update of the database. Therefore on launch 
                     name: task 1
                     priority: 5
              
-_On relaunch of the application another pushid will be created with the same data_
+_On relaunch of the application another pushid will be created with the same data._
 _On click of the button `done` attribute will be updated to `true` and no new node will be created_
